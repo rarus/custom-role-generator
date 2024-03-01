@@ -1,3 +1,8 @@
+[![GitHub License](https://img.shields.io/github/license/rarus/custom-role-generator)](https://github.com/rarus/custom-role-generator/tree/main?tab=CC-BY-SA-4.0-1-ov-file#CC-BY-SA-4.0-1-ov-file)
+[![Download Badge](https://img.shields.io/badge/download-CustomRoleGenerator.cfe-blue)](https://github.com/rarus/custom-role-generator/releases/latest/download/CustomRoleGenerator.cfe)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rarus/custom-role-generator/total)](https://github.com/rarus/custom-role-generator/releases)
+[![GitHub watchers](https://img.shields.io/github/watchers/rarus/custom-role-generator)](https://github.com/rarus/custom-role-generator)
+
 # Предназначение инструмента
 
 Инструмент предназначен для произвольной настройки ролей в конфигурациях на базе платформы `1С:Предприятие 8.3` в пользовательском режиме не требующие модификации конфигурации.
