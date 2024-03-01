@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a72426c0-a924-444d-acd4-7e8e2967f365">
+  <name>гпр_ИзменениеНастроекИсторииДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Изменение настроек истории данных</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр изменение настроек истории данных</value>
+  </synonym>
+</mdclass:CommonPicture>

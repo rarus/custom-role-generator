@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4fd1b16d-84d3-47df-ac7b-e296a0b5844b">
+  <name>гпр_УправлениеИтогами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Управление итогами</value>
+  </synonym>
+</mdclass:CommonPicture>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="981dc5b6-c0b9-49ca-869e-fac07141e1ee">
+  <name>гпр_РаботаСКонфигурациейСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с конфигурацией (сервер)</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр работа с конфигурацией сервер</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a0dcfc73-dd2d-4f2b-b37d-c5b2d9466ac7">
+  <producedTypes>
+    <refType typeId="42b189de-8918-4a8c-a54b-9e12e46a994f" valueTypeId="2cae0e8f-6781-4478-85fc-9b9ab8289f49"/>
+    <listType typeId="8987c7d2-02ca-41d6-9c59-661343b276b8" valueTypeId="661d088b-b87f-4ada-b091-df3630b5214b"/>
+    <managerType typeId="e5de7c42-0730-459e-b645-ede996e30139" valueTypeId="103f8a2b-bdf2-4b5e-af5c-09e0b393ec01"/>
+  </producedTypes>
+  <name>гпр_РежимыВыгрузкиКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Режимы выгрузки конфигурации</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="74fccd65-0ee0-4a94-8699-378467591394">
+    <name>КонфигурацияВыгруженаВКаталог</name>
+    <synonym>
+      <key>ru</key>
+      <value>Конфигурация выгружена в файлы</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0dcd71b6-21c1-4fa2-9715-16c48e6ce85f">
+    <name>КонфигурацияНеВыгруженаВКаталог</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выгружать конфигурацию в файлы автоматически</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

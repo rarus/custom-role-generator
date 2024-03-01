@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="64304fcc-dff6-403c-accf-6115ac8c16f8">
+  <name>гпр_ИнтерактивноеИзменениеПроведенных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интерактивное изменение проведенных</value>
+  </synonym>
+</mdclass:CommonPicture>

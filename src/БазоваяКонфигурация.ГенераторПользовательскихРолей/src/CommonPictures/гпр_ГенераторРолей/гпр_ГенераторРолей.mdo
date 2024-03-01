@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="544916c5-3eed-4302-ac0b-2bbebb8d8b8a">
+  <name>гпр_ГенераторРолей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генератор ролей</value>
+  </synonym>
+</mdclass:CommonPicture>

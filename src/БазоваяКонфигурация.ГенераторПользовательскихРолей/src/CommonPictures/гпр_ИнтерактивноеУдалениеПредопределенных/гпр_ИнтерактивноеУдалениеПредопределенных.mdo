@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f383b06f-50f0-488c-8eca-5b25f664f7a2">
+  <name>гпр_ИнтерактивноеУдалениеПредопределенных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интерактивное удаление предопределенных</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр интерактивное удаление предопределенных</value>
+  </synonym>
+</mdclass:CommonPicture>

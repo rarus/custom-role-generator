@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46411f0b-8ae6-4cb1-b570-c101d21f5a32">
+  <name>гпр_ШаблонРоли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблон роли</value>
+  </synonym>
+  <templateType>BinaryData</templateType>
+</mdclass:CommonTemplate>

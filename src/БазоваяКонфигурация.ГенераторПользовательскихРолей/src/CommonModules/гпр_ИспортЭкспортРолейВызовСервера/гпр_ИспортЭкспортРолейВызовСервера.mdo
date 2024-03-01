@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="739f9c9a-3c58-48e1-8924-1885dff37d8b">
+  <name>гпр_ИспортЭкспортРолейВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Испорт экспорт ролей вызов сервера</value>
+  </synonym>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

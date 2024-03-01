@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7c4de257-8c49-47b3-a8f6-6d74f5d2b352">
+  <producedTypes>
+    <managerType typeId="a5e8f14a-6fbf-423f-9622-dc50fa8335b3" valueTypeId="1fbe28d5-fa55-4714-aaa4-7789d5e0c9e6"/>
+    <valueManagerType typeId="b64594ee-f95b-4510-b963-42791bdf4d10" valueTypeId="6ec91b49-3864-42e0-b792-9195c792a4dd"/>
+    <valueKeyType typeId="2f496acb-c139-4b9a-9591-212188a4f6e2" valueTypeId="d8f56e43-e5a4-4e7c-87a8-a87db36af2bb"/>
+  </producedTypes>
+  <name>гпр_КаталогВыгрузкиКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Каталог выгрузки конфигурации</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers/>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

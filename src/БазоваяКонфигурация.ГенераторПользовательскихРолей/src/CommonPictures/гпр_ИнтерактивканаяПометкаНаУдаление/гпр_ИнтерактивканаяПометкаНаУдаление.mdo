@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1eb0a8c7-d614-4900-9e49-59cce1661701">
+  <name>гпр_ИнтерактивканаяПометкаНаУдаление</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интерактивканая пометка удаления</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр интерактивканая пометка на удаление</value>
+  </synonym>
+</mdclass:CommonPicture>

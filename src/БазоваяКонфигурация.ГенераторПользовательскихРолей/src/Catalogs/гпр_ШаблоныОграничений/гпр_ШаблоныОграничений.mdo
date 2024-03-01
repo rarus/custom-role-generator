@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="780acbb9-7c33-454c-97b1-de9d6b91e04a">
+  <producedTypes>
+    <objectType typeId="1fe3909a-9d8a-40ca-b915-a8a933816e67" valueTypeId="042d010e-d090-4f1e-8e28-3a68273d6fac"/>
+    <refType typeId="528cb77b-bf4f-4fbe-867e-a246e09a3661" valueTypeId="cd724b17-2ff7-48e6-9d40-81d15acf5eaf"/>
+    <selectionType typeId="907f6bb3-f0b8-41ed-a734-78e66dae524f" valueTypeId="f330fc10-c2ce-4a2b-9860-e7b889277852"/>
+    <listType typeId="3a4b8889-ff8b-4858-99aa-2ae92a0e2206" valueTypeId="920f2537-b989-4b9f-bf8f-6942de857c2f"/>
+    <managerType typeId="e025bdc3-b420-4715-a071-3bd66196b13f" valueTypeId="d1d56f07-43de-4896-b4aa-e9315c82c77f"/>
+  </producedTypes>
+  <name>гпр_ШаблоныОграничений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблоны ограничений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.гпр_ШаблоныОграничений.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.гпр_ШаблоныОграничений.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.гпр_ШаблоныОграничений.Form.ФормаЭлемента</defaultObjectForm>
+  <attributes uuid="642fdc88-cd6c-478d-a4b7-b38f1b6ecbaf">
+    <name>ТекстШаблона</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст шаблона</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <forms uuid="18b19117-b163-429b-9d80-88a1e35db3c4">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

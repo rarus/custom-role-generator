@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FilterCriterion xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b49706e1-8d42-4867-a841-58dbb98564ea">
+  <producedTypes>
+    <listType typeId="145c5426-9642-4fcc-86a7-affe7ba8314c" valueTypeId="f5a2a502-cd0c-42ee-b0c7-1064263b8d09"/>
+    <managerType typeId="a9a67661-5c43-439c-9518-1aa63ce7999b" valueTypeId="76ff94dd-852c-4d18-a8cb-432c5aa621d7"/>
+  </producedTypes>
+  <name>КритерийОтбора1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Критерий отбора1</value>
+  </synonym>
+  <type>
+    <types>Arbitrary</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:FilterCriterion>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a1d6f75c-ee07-4a97-8b73-e495e90f5c5b">
+  <producedTypes>
+    <objectType typeId="d11ca48a-98af-4887-9438-9250e638d276" valueTypeId="70aa067a-856f-4469-a7c3-5e3c971818e2"/>
+    <managerType typeId="56d37f41-4bd8-4c7f-9366-6769a025107d" valueTypeId="e04576ca-3777-49aa-9635-e982cde8ac5c"/>
+  </producedTypes>
+  <name>Отчет1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчет1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>

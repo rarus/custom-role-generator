@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:StyleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="52673484-d070-48e7-8e09-fe43c2ea1736">
+  <name>ЭлементСтиля1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Элемент стиля1</value>
+  </synonym>
+  <value xsi:type="core:ColorValue">
+    <value xsi:type="core:ColorDef"/>
+  </value>
+</mdclass:StyleItem>

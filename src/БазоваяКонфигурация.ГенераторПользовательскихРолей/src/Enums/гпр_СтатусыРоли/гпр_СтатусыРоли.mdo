@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0fd298ae-e19e-4c08-ace9-25152a71547d">
+  <producedTypes>
+    <refType typeId="a3d56190-c07f-443d-9385-7f68c9b455ab" valueTypeId="eb03e423-1611-449f-b63a-89bcb5e1ad5f"/>
+    <listType typeId="e92d50b8-80ed-4da2-a319-4feb344f7d82" valueTypeId="acf974f2-ba6e-4667-bd2f-d0dd7d56d628"/>
+    <managerType typeId="e48184b4-cd5c-45a5-ae03-ab778c391884" valueTypeId="2d2ac6ba-5399-4a09-9d38-b9232f600ff9"/>
+  </producedTypes>
+  <name>гпр_СтатусыРоли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды состояний роли</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="6950c36c-e3cf-4a29-895b-f6e3821f6f8d">
+    <name>Черновик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Черновик</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8ed95127-3f60-4d1d-b284-f24f930d3036">
+    <name>Актуальна</name>
+    <synonym>
+      <key>ru</key>
+      <value>Актуальна</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d2d8b253-37ca-4773-8595-c6db90b1033a">
+    <name>Устарела</name>
+    <synonym>
+      <key>ru</key>
+      <value>Устарела</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

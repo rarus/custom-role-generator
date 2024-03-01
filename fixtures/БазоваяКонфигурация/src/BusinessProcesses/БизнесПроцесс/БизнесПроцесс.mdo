@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:BusinessProcess xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2c80c9e2-0f34-4628-9c2c-1a352aa5e1ab">
+  <producedTypes>
+    <objectType typeId="34b6f0a2-7e63-485a-8722-a593e226e04c" valueTypeId="ff4d2909-921b-4506-b1c3-67af1af2e2fe"/>
+    <refType typeId="6740537f-a225-491b-bbcc-2e5cab636a26" valueTypeId="b3588668-cd2c-43bd-b7bf-407b49ff11cb"/>
+    <selectionType typeId="6652c445-fe08-4f7c-a945-a079792cd64c" valueTypeId="18928b5b-1ae2-406c-b71e-1ea3d3d9cd6d"/>
+    <listType typeId="9666faba-c568-494e-83b0-a9ed8a810022" valueTypeId="f0dc4145-59ec-4d02-bc75-d0891fac0faa"/>
+    <managerType typeId="85134cc0-a76f-4b92-81ff-c6cf4bcbd7ff" valueTypeId="2c56b22d-09c2-48a9-a1f9-70e0515574b5"/>
+    <routePointRef typeId="06cb73a7-d4fd-4e1a-ac62-7348f10319fe" valueTypeId="915a09dc-21b5-4b91-b289-ccf5a0341a7c"/>
+  </producedTypes>
+  <name>БизнесПроцесс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бизнес процесс</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>BusinessProcess.БизнесПроцесс.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <editType>InDialog</editType>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <task>Task.Задача1</task>
+  <createTaskInPrivilegedMode>true</createTaskInPrivilegedMode>
+</mdclass:BusinessProcess>

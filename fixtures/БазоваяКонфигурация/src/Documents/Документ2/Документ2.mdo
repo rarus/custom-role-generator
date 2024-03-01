@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a1cc72a0-1844-429f-931d-427cd6595e01">
+  <producedTypes>
+    <objectType typeId="426a9139-ef0a-4dac-8e0d-a7a8adcffc51" valueTypeId="17336b5a-b023-4631-b790-176f6c7fef2a"/>
+    <refType typeId="cd10a581-3489-40c3-964c-c21e47c4e7d0" valueTypeId="96c700da-899a-4fab-85cc-13831432bd1f"/>
+    <selectionType typeId="94728749-cd14-48d5-b24a-d39d2fc06438" valueTypeId="89fb89b1-1298-4bef-a59e-9451e49653ca"/>
+    <listType typeId="6276ac0b-fa28-44e3-bb46-0263afe1de49" valueTypeId="5bedd8cb-adc8-4767-b476-16f430b185df"/>
+    <managerType typeId="5ca7c5db-c216-4593-96a7-804120416012" valueTypeId="f60b822b-9c80-4d67-867a-c1903413cdca"/>
+  </producedTypes>
+  <name>Документ2</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документ2</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Документ2.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <registerRecords>AccumulationRegister.РегистрНакопления1</registerRecords>
+  <registerRecords>AccountingRegister.РегистрБухгалтерии1</registerRecords>
+  <registerRecords>CalculationRegister.РегистрРасчета1</registerRecords>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="7c5901a9-eee4-4b24-bce7-48e60b2235aa">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="fecbb7dc-f23c-43eb-8bfa-3931d1994587">
+    <name>Реквизит2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит2</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="ef141c5b-343e-4034-b60c-91c3f5ba6f0c">
+    <producedTypes>
+      <objectType typeId="7f70e95f-8a95-4208-b96d-6ca9b1f50e3f" valueTypeId="d49befe3-8032-4dcd-8954-0fce007e6722"/>
+      <rowType typeId="15f8e32c-0f53-4f91-8176-b0ba288f0567" valueTypeId="99f30b91-338c-44bd-aa10-fb43dcf46da8"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть1</value>
+    </synonym>
+    <attributes uuid="26444868-e54e-487c-916e-b850190563eb">
+      <name>Реквизит1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="539ddb7d-2f56-4838-8227-8b260c61c040">
+      <name>Реквизит2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="71a52652-2400-4e7d-becd-1c9e66e60326">
+    <producedTypes>
+      <objectType typeId="45f59828-c3fb-4de6-b87f-477cad6ef35d" valueTypeId="e68802c6-6404-4a7d-becc-dd83cf0bfaeb"/>
+      <rowType typeId="f966c083-e570-4120-95a2-676505316ed4" valueTypeId="c8e2c02d-a8bd-4379-8ead-7d2534164784"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть2</value>
+    </synonym>
+    <attributes uuid="d6d3625a-9293-4238-879e-3438f177d30c">
+      <name>Реквизит1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3f382e35-3e54-4f4a-8c2d-f8f5c435778b">
+      <name>Реквизит2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <commands uuid="789c2754-3b2b-4415-992c-551a9af06dae">
+    <name>Команда1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Команда1</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <representation>Auto</representation>
+  </commands>
+  <commands uuid="eb4c6948-4484-4aec-ad38-9637027f3820">
+    <name>Команда2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Команда2</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <representation>Auto</representation>
+  </commands>
+  <commands uuid="716e2110-0321-4256-b68a-cf208cd9d52f">
+    <name>Команда3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Команда3</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:Document>

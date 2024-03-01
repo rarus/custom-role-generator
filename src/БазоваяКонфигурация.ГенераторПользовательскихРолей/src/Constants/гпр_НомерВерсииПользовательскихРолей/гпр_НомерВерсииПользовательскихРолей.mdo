@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c1e7d989-a7b5-4b59-a666-50082066a6d1">
+  <producedTypes>
+    <managerType typeId="8d2323fa-54bb-4d83-bd17-442df8912339" valueTypeId="685bd996-1df5-49b5-aabb-17ab6a316f31"/>
+    <valueManagerType typeId="49d690af-ea41-49e9-8d64-66502f9d58fc" valueTypeId="3d53dc2d-f59f-4111-9cc1-6000047b969b"/>
+    <valueKeyType typeId="d60e2020-9fbf-4704-aecb-82530a70fd5e" valueTypeId="661186de-33c2-4244-831b-8a6d629dfbf5"/>
+  </producedTypes>
+  <name>гпр_НомерВерсииПользовательскихРолей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Номер версии пользовательских ролей</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>15</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

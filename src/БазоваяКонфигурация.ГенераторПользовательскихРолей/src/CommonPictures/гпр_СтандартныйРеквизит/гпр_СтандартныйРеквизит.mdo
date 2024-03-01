@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6b24ba2c-6c83-4630-905d-ae6f2d3e48f8">
+  <name>гпр_СтандартныйРеквизит</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стандартный реквизит</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр стандартный реквизит</value>
+  </synonym>
+</mdclass:CommonPicture>

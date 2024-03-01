@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="48148c36-7464-4828-bff6-607760693737">
+  <name>ГенераторПользовательскихРолей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генератор пользовательских ролей</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4c65c15d-b283-4e90-879a-0e0df01742b7"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="d1f39393-abd6-4a5a-9618-cf5f654d4790"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="637feb08-d93e-45f9-86b4-04b62404f08c"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c5bc5a04-f819-47f1-82e9-6351c2c8d442"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6dfa6fbc-4cfc-4f06-8758-fb16877bec72"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="fbca14d4-c6f7-4192-82c4-160172494a0f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="99f93c9f-9f47-46a1-ab85-a537483262ff"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>гпр_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>ООО &quot;1С-Рарус&quot;</vendor>
+  <version>1.0.1.4</version>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Герерация ролей пользователей без модификации программного продукта</value>
+  </detailedInformation>
+  <copyright>
+    <key>ru</key>
+    <value>Copyright (С) ООО &quot;1С-Рарус&quot;, 2018-2023. Все права защищены</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>http://www.rarus.ru</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://gitlab.rarus.ru/Alfa-Auto-Sev/custom-role-generator</value>
+  </configurationInformationAddress>
+  <languages uuid="f5204ff7-144e-438b-9cbb-d4a182e5e38e">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.гпр_ГенераторРолей</subsystems>
+  <commonPictures>CommonPicture.гпр_RLS</commonPictures>
+  <commonPictures>CommonPicture.гпр_WebСервис</commonPictures>
+  <commonPictures>CommonPicture.гпр_ВводПоСтроке</commonPictures>
+  <commonPictures>CommonPicture.гпр_ГенераторРолей</commonPictures>
+  <commonPictures>CommonPicture.гпр_Добавление</commonPictures>
+  <commonPictures>CommonPicture.гпр_Изменение</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИзменениеИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИзменениеИсторииДанныхОтстутсвующихДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИзменениеКомментарияВерсииИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИзменениеНастроекИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтеракивноеУдалениеПомеченных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивканаяПометкаНаУдаление</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивнаяОтменаПроведения</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивнаяПометкаНаУдалениеПредопределенных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеДобавление</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеИзменениеПроведенных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеПроведение</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеПроведениеНеОперативное</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеСнятиеПометкиУдаления</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеСнятиеПометкиУдаленияПредопределенных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеУдаление</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеУдалениеПомеченныхПредопределенных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ИнтерактивноеУдалениеПредопределенных</commonPictures>
+  <commonPictures>CommonPicture.гпр_Использование</commonPictures>
+  <commonPictures>CommonPicture.гпр_ЛоготипРарус</commonPictures>
+  <commonPictures>CommonPicture.гпр_ОбщаяКоманда</commonPictures>
+  <commonPictures>CommonPicture.гпр_ОтменаПроведения</commonPictures>
+  <commonPictures>CommonPicture.гпр_ПараметрСеанса</commonPictures>
+  <commonPictures>CommonPicture.гпр_ПереходНаВерсиюИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_Подсистема</commonPictures>
+  <commonPictures>CommonPicture.гпр_Получение</commonPictures>
+  <commonPictures>CommonPicture.гпр_Проведение</commonPictures>
+  <commonPictures>CommonPicture.гпр_Просмотр</commonPictures>
+  <commonPictures>CommonPicture.гпр_ПросмотрИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_Редактирование</commonPictures>
+  <commonPictures>CommonPicture.гпр_РедактированияКомментарияВерсииИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_СтандартныйРеквизит</commonPictures>
+  <commonPictures>CommonPicture.гпр_Удалить</commonPictures>
+  <commonPictures>CommonPicture.гпр_УправлениеИтогами</commonPictures>
+  <commonPictures>CommonPicture.гпр_Установка</commonPictures>
+  <commonPictures>CommonPicture.гпр_Чтение</commonPictures>
+  <commonPictures>CommonPicture.гпр_ЧтениеИсторииДанных</commonPictures>
+  <commonPictures>CommonPicture.гпр_ЧтениеИсторииДанныхОтсутствующихДанных</commonPictures>
+  <roles>Role.гпр_РаботаСГенератором</roles>
+  <commonTemplates>CommonTemplate.гпр_ШаблонРасширения</commonTemplates>
+  <commonTemplates>CommonTemplate.гпр_ПустаяБазаДанных</commonTemplates>
+  <commonTemplates>CommonTemplate.гпр_ШаблонОбъектаКонфигурации</commonTemplates>
+  <commonTemplates>CommonTemplate.гпр_ШаблонРоли</commonTemplates>
+  <commonTemplates>CommonTemplate.гпр_ТекстРоли</commonTemplates>
+  <commonModules>CommonModule.гпр_ВыгрузкаРасширенияСервер</commonModules>
+  <commonModules>CommonModule.гпр_ЗагрузкаОбъектов</commonModules>
+  <commonModules>CommonModule.гпр_ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.гпр_ОбновлениеИнформационнойБазыГенераторПользовательскихРолей</commonModules>
+  <commonModules>CommonModule.гпр_ОбщегоНазначенияКлиент</commonModules>
+  <commonModules>CommonModule.гпр_РаботаСКонфигурациейКлиентСервер</commonModules>
+  <commonModules>CommonModule.гпр_РаботаСКонфигурациейСервер</commonModules>
+  <commonModules>CommonModule.гпр_РаботаСКонфигурациейСерверПовтИсп</commonModules>
+  <commonModules>CommonModule.гпр_ИспортЭкспортРолей</commonModules>
+  <commonModules>CommonModule.гпр_ИспортЭкспортРолейКлиент</commonModules>
+  <commonModules>CommonModule.гпр_ИспортЭкспортРолейВызовСервера</commonModules>
+  <commonCommands>CommonCommand.гпр_Настройки</commonCommands>
+  <constants>Constant.гпр_КаталогВыгрузкиКонфигурации</constants>
+  <constants>Constant.гпр_ПользовательБазы</constants>
+  <constants>Constant.гпр_ПарольПользователя</constants>
+  <constants>Constant.гпр_РежимВыгрузкиКонфигурации</constants>
+  <constants>Constant.гпр_НомерВерсииПользовательскихРолей</constants>
+  <commonForms>CommonForm.гпр_Настройки</commonForms>
+  <commonForms>CommonForm.гпр_НастройкаВыгрузкиРолиКонфигурации</commonForms>
+  <catalogs>Catalog.гпр_Роли</catalogs>
+  <catalogs>Catalog.гпр_ШаблоныОграничений</catalogs>
+  <enums>Enum.гпр_ВидыМетаданных</enums>
+  <enums>Enum.гпр_ПраваДоступа</enums>
+  <enums>Enum.гпр_ТипыРеквизитовОбъекта</enums>
+  <enums>Enum.гпр_РежимыВыгрузкиКонфигурации</enums>
+  <enums>Enum.гпр_СтатусыРоли</enums>
+  <dataProcessors>DataProcessor.ОПрограмме</dataProcessors>
+</mdclass:Configuration>

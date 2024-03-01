@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="03f23ea0-e15f-4985-8092-ec8c304af75d">
+  <name>гпр_ШаблонОбъектаКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблон объекта конфигурации</value>
+  </synonym>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>

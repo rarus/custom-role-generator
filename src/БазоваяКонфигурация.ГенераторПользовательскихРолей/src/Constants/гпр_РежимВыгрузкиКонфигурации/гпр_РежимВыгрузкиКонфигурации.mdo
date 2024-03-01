@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5058b3cf-0ceb-486b-8f23-8d20018e54a3">
+  <producedTypes>
+    <managerType typeId="e2d59adf-5592-47ba-927b-8b1208b61c3b" valueTypeId="528504c5-c428-4981-8a35-fd4e27128daa"/>
+    <valueManagerType typeId="18f680f2-b74c-4f31-85ad-e64887ed0ab5" valueTypeId="37d72350-409a-4c80-96b1-376e59f978b1"/>
+    <valueKeyType typeId="9576bee0-b27f-4de6-913e-a870dcfa87b7" valueTypeId="4822bf39-4c70-4d79-bf76-1f367a1a5419"/>
+  </producedTypes>
+  <name>гпр_РежимВыгрузкиКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Режим выгрузки конфигурации</value>
+  </synonym>
+  <type>
+    <types>EnumRef.гпр_РежимыВыгрузкиКонфигурации</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

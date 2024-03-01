@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ChartOfCharacteristicTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fb62c4c0-e4ee-4f9a-965a-54e70badba12">
+  <producedTypes>
+    <objectType typeId="4e76d406-d470-4f62-b666-2abd137bb1d1" valueTypeId="4cc5398d-3af5-40da-b4bd-ae0137668cf3"/>
+    <refType typeId="4d45c615-8ac9-495a-b17e-2253050f3647" valueTypeId="d7bafd05-4278-4389-83c2-7046a570500a"/>
+    <selectionType typeId="680c390d-27bc-4666-96ef-630cc93b1936" valueTypeId="6e7cfb6e-0151-4ad7-b187-6bbade4931c2"/>
+    <listType typeId="e35bd929-e467-4e4a-aa9f-23958079b8ac" valueTypeId="528d8fa2-b999-406d-bb54-50ea9de9bbc3"/>
+    <managerType typeId="d632e422-0e98-4a17-9d1d-f36359b0c4d7" valueTypeId="80adbd6f-fe2f-438d-813b-2dc491eaf168"/>
+    <containerType typeId="f88b201a-5766-42b2-9054-4244d2222411" valueTypeId="2ad514cf-8064-4eb7-9e62-4903dd029f91"/>
+  </producedTypes>
+  <name>ПланВидовХарактеристик2</name>
+  <synonym>
+    <key>ru</key>
+    <value>План видов характеристик2</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик2.StandardAttribute.Code</inputByString>
+  <inputByString>ChartOfCharacteristicTypes.ПланВидовХарактеристик2.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ChartOfCharacteristicTypes>

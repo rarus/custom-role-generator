@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ebe35698-86ef-4ed8-8a5b-99ae8204f0a1" extendedConfigurationObject="cf65ba71-12b7-44e6-b3ab-70ed4f25d378">
+  <producedTypes>
+    <objectType typeId="3b8f987b-a02b-4870-9a7f-f06ec79afd8e" valueTypeId="e70d13ad-1908-4f15-9158-5f17771360ba"/>
+    <refType typeId="a2615f0a-aa61-475d-8ab6-7db9151064aa" valueTypeId="a6e6a226-1950-43c7-b082-44342b7bdfaa"/>
+    <selectionType typeId="2ed0502e-481c-497c-9d39-7e38b41c9734" valueTypeId="399984f1-50dd-45c1-bf55-1a165c230d09"/>
+    <listType typeId="1c12e2fa-b4ab-43c2-9fd2-d7aec99c2af1" valueTypeId="ce8b2490-f576-40df-adc0-df9196a1354b"/>
+    <managerType typeId="1d6b7c75-3a21-4bd1-82aa-bef0b00fc2bd" valueTypeId="2cd50c16-fe12-4cee-9af4-6fd519ee06fc"/>
+  </producedTypes>
+  <name>Документ1</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <attributes uuid="fc2928b7-f9f8-4ecc-b5f4-4488ea68f685">
+    <name>РеквизитВРасширении</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит в расширении</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="33bf2856-7a70-4726-b46d-6e6f5cb3f707" extendedConfigurationObject="d54ea772-da77-4425-8885-f7ec12d1ecb9">
+    <producedTypes>
+      <objectType typeId="8803c077-892e-4a52-8381-74955324e426" valueTypeId="348df7a5-4f6f-4662-a743-5c63ff4ed376"/>
+      <rowType typeId="786a9863-513f-45a2-ba41-a9fa840b7978" valueTypeId="3ff9a7ee-2fdc-444a-8065-cb753857961c"/>
+    </producedTypes>
+    <name>ТабличнаяЧасть1</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+    <attributes uuid="8aa96f33-72f2-4dbf-bab8-f4d8113a8d4f">
+      <name>Тест_РСР_РеквизитТабличнойЧастиВРасширении</name>
+      <synonym>
+        <key>ru</key>
+        <value>Реквизит табличной части в расширении</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="7008e675-0760-4335-8e76-0b3d94ac5869">
+    <producedTypes>
+      <objectType typeId="e5e62659-e04f-4f9d-85af-0c537b2cd6e0" valueTypeId="88d1859e-fc0d-4274-b0d1-57a646aee8f4"/>
+      <rowType typeId="698358d0-9083-4211-bf68-797ec9d2e535" valueTypeId="4425492f-271d-4947-a35c-f4ce3592ef18"/>
+    </producedTypes>
+    <name>Тест_РСР_ТабличнаяЧастьВРасширении</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табличная часть в расширении</value>
+    </synonym>
+    <attributes uuid="3d83e4c2-403f-49cd-a350-f0dc2679c456">
+      <name>Тест_РСР_РеквизитТабличнойЧастиВРасширении</name>
+      <synonym>
+        <key>ru</key>
+        <value>Тест РСР реквизит табличной части в расширении</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+</mdclass:Document>

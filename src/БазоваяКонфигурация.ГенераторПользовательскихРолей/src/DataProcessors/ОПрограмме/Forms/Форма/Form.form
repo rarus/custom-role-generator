@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
+  <items xsi:type="form:FormGroup">
+    <name>ЛоготипИЗаголовок</name>
+    <id>1</id>
+    <items xsi:type="form:Decoration">
+      <name>Логотип</name>
+      <id>3</id>
+      <title>
+        <key>ru</key>
+        <value>Логотип</value>
+      </title>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <extendedTooltip>
+        <name>ЛоготипРасширеннаяПодсказка</name>
+        <id>5</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <contextMenu>
+        <name>ЛоготипКонтекстноеМеню</name>
+        <id>4</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <autoFill>true</autoFill>
+      </contextMenu>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <horizontalStretch>false</horizontalStretch>
+      <verticalStretch>false</verticalStretch>
+      <extInfo xsi:type="form:PictureDecorationExtInfo">
+        <picture xsi:type="core:PictureRef">
+          <picture>CommonPicture.гпр_ЛоготипРарус</picture>
+        </picture>
+        <zoomable>true</zoomable>
+        <fileDragMode>AsFileRef</fileDragMode>
+      </extInfo>
+    </items>
+    <items xsi:type="form:Decoration">
+      <name>ЗаголовокОПрограмме</name>
+      <id>6</id>
+      <title>
+        <key>ru</key>
+        <value>&lt;fontsize 18>&lt;b>Генератор&lt;/>&lt;/>&lt;fontsize 18>&lt;b> &lt;/>&lt;/>&lt;fontsize 18>&lt;b>пользовательских&lt;/>&lt;/>&lt;fontsize 18>&lt;b> &lt;/>&lt;/>&lt;fontsize 18>&lt;b>ролей&lt;/>&lt;/>
+&lt;fontsize 14>Версия&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>1.0.0.17&lt;/>
+
+&lt;fontsize 14>Распоространяется&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>по&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>лицензии:&lt;/>
+&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>Attribution&lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode> &lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>4.0&lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode> &lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>International&lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode> &lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>(CC&lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode> &lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>BY&lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode> &lt;/>&lt;/>&lt;/>&lt;fontsize 14>&lt;color #0066cc>&lt;link https://creativecommons.org/licenses/by/4.0/legalcode>4.0)&lt;/>&lt;/>&lt;/>
+
+&lt;fontsize 14>&lt;b>Авторы&lt;/>&lt;/>
+&lt;fontsize 14>Цюпцюн&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>Антон&lt;/>
+&lt;fontsize 14>Иванов&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>Эдуард&lt;/>
+
+&lt;fontsize 16>&lt;b>Репозиторий&lt;/>&lt;/>&lt;fontsize 16>&lt;b> &lt;/>&lt;/>&lt;fontsize 16>&lt;b>проекта&lt;/>&lt;/>
+&lt;fontsize 14>&lt;color #0066cc>&lt;link https://gitlab.rarus.ru/Alfa-Auto-Sev/custom-role-generator>https://gitlab.rarus.ru/Alfa-Auto-Sev/custom-role-generator&lt;/>&lt;/>&lt;/>
+
+
+&lt;fontsize 14>Инструмент&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>распространяется&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>&quot;как&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>есть&quot;&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>в&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>составе&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>Библиотеки&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>технологических&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>подсистем&lt;/>&lt;fontsize 14> &lt;/>&lt;fontsize 14>1С-Рарус&lt;/>
+
+
+&lt;fontsize 14>&lt;color #0066cc>&lt;link https://gitlab.rarus.ru/GRIALE>https://gitlab.rarus.ru/GRIALE&lt;/>&lt;/>&lt;/>
+</value>
+      </title>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <extendedTooltip>
+        <name>ЗаголовокОПрограммеРасширеннаяПодсказка</name>
+        <id>8</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <contextMenu>
+        <name>ЗаголовокОПрограммеКонтекстноеМеню</name>
+        <id>7</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <autoFill>true</autoFill>
+      </contextMenu>
+      <formatted>true</formatted>
+      <type>Label</type>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <horizontalAlign>Left</horizontalAlign>
+      </extInfo>
+    </items>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
+    <title>
+      <key>ru</key>
+      <value>Логотип и заголовок</value>
+    </title>
+    <extendedTooltip>
+      <name>ЛоготипИЗаголовокРасширеннаяПодсказка</name>
+      <id>2</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <type>Label</type>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <horizontalAlign>Left</horizontalAlign>
+      </extInfo>
+    </extendedTooltip>
+    <type>UsualGroup</type>
+    <extInfo xsi:type="form:UsualGroupExtInfo">
+      <group>HorizontalIfPossible</group>
+      <showLeftMargin>true</showLeftMargin>
+      <united>true</united>
+      <throughAlign>Auto</throughAlign>
+      <currentRowUse>Auto</currentRowUse>
+    </extInfo>
+  </items>
+  <commandBarLocation>None</commandBarLocation>
+  <autoCommandBar>
+    <name>ФормаКоманднаяПанель</name>
+    <id>-1</id>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
+    <horizontalAlign>Left</horizontalAlign>
+    <autoFill>true</autoFill>
+  </autoCommandBar>
+  <windowOpeningMode>LockOwnerWindow</windowOpeningMode>
+  <autoUrl>true</autoUrl>
+  <group>Vertical</group>
+  <autoFillCheck>true</autoFillCheck>
+  <enabled>true</enabled>
+  <showTitle>true</showTitle>
+  <showCloseButton>true</showCloseButton>
+  <attributes>
+    <name>Объект</name>
+    <id>1</id>
+    <valueType>
+      <types>DataProcessorObject.ОПрограмме</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+    <main>true</main>
+  </attributes>
+  <commandInterface>
+    <navigationPanel/>
+    <commandBar/>
+  </commandInterface>
+  <extInfo xsi:type="form:ObjectFormExtInfo"/>
+</form:Form>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc6bda04-6ff1-4d1e-8ddd-be0c0ce96942">
+  <name>гпр_ИнтерактивноеПроведениеНеОперативное</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интерактивное проведение не оперативное</value>
+  </synonym>
+</mdclass:CommonPicture>

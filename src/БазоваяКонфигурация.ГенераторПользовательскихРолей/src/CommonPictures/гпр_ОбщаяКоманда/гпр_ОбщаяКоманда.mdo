@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2b07e892-2a66-482d-84ca-cb5f53da02d6">
+  <name>гпр_ОбщаяКоманда</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общая команда</value>
+  </synonym>
+  <synonym>
+    <key></key>
+    <value>Гпр общая команда</value>
+  </synonym>
+</mdclass:CommonPicture>

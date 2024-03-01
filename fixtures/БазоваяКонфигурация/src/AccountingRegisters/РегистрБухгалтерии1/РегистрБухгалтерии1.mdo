@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccountingRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5b21a053-70e8-4bf2-bd8b-16850e66c6e9">
+  <producedTypes>
+    <selectionType typeId="0ae9de35-03a9-4f52-8341-61415dc4aa3b" valueTypeId="29c60cc0-9486-4ba9-871a-0d083f7b9eb8"/>
+    <listType typeId="7dfc608e-05fa-45e7-8421-102d615eb92c" valueTypeId="289e523f-41a1-483e-af0e-79c9b8e2f9a0"/>
+    <managerType typeId="bd3da245-ff7b-452f-b973-172136c4cc11" valueTypeId="1930f446-d2f0-4655-9724-671f9eddcf5b"/>
+    <recordSetType typeId="5a9d8b67-5864-4742-9c1f-31bf4d3a5091" valueTypeId="bc0a55c7-8e39-45a1-8cdc-81eb6b57544c"/>
+    <recordKeyType typeId="057b0472-13f6-425d-b294-2706a8317fb7" valueTypeId="c5679db3-35c8-4210-895d-69fcbfa132b6"/>
+    <recordType typeId="241dafcb-e1c4-45ef-95a1-7e9caef61ba7" valueTypeId="13b4cd49-4f9b-484e-9ad7-85682d423bf0"/>
+    <extDimensionsType typeId="abf5db44-7112-42db-9092-49c97d50f1ec" valueTypeId="952a91f9-55fb-40ab-b24c-62d7ace73aa8"/>
+  </producedTypes>
+  <name>РегистрБухгалтерии1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр бухгалтерии1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <chartOfAccounts>ChartOfAccounts.ПланСчетов1</chartOfAccounts>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <dimensions uuid="168d2e91-2304-401e-b488-8c52095135b5">
+    <name>Измерение1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Измерение1</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Справочник1</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <balance>true</balance>
+  </dimensions>
+  <resources uuid="db9a00d5-ab47-4d38-adac-b934ae5c6220">
+    <name>Ресурс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ресурс</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="33741c9e-c3d1-41dd-80cd-f3b5da2ec480">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <commands uuid="50badd6b-03c9-4c94-9c7b-89215a10f372">
+    <name>Команда</name>
+    <synonym>
+      <key>ru</key>
+      <value>Команда</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:AccountingRegister>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ecaa3529-0e01-4638-bccf-5e0ae9856140">
+  <name>гпр_ВыгрузкаРасширенияСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка расширения сервер</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

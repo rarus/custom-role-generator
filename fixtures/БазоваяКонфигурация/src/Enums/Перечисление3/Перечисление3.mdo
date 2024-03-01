@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="69ea1e07-22fe-4f16-a584-2a29fad21cf5">
+  <producedTypes>
+    <refType typeId="b3b24f44-e833-4f0c-a8cf-21268c765f03" valueTypeId="7f545d48-5db0-44df-85a9-29a5a6ad6850"/>
+    <listType typeId="ea77bc8c-07d3-4894-b1b2-c73d2fbfa628" valueTypeId="ef1e3c51-acfa-465b-875d-17228c697960"/>
+    <managerType typeId="d984ffc7-3e53-450b-acd5-7a3fda939d5a" valueTypeId="f037c425-cb3c-4b60-8d08-e250e8e12041"/>
+  </producedTypes>
+  <name>Перечисление3</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перечисление3</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

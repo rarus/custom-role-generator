@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b8e3896-8ed7-4d47-bbb2-57210e2a9bf3">
+  <name>HTTPСервис1</name>
+  <synonym>
+    <key>ru</key>
+    <value>HTTPСервис1</value>
+  </synonym>
+  <rootURL>test</rootURL>
+  <reuseSessions>AutoUse</reuseSessions>
+  <sessionMaxAge>20</sessionMaxAge>
+</mdclass:HTTPService>

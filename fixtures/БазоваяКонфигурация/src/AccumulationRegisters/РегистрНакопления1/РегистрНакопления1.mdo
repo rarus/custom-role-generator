@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d2a21fe4-555a-40ee-b7eb-cab72bf994b2">
+  <producedTypes>
+    <selectionType typeId="6be79ed8-feef-45d4-8564-d557ea7e164a" valueTypeId="302296bf-3e15-4011-8759-32af0f9df0be"/>
+    <listType typeId="15e73cec-760b-4f8f-b954-30f3a0e2e976" valueTypeId="f486ba45-9d0b-4884-a5b0-3dadfba93d1f"/>
+    <managerType typeId="cb5b37b7-30fe-4204-b028-495b157cb8a1" valueTypeId="3b2d5412-7ff4-48b3-a3f7-27b9dcaa917c"/>
+    <recordSetType typeId="b72c1e8f-8769-40e5-90f8-d28ed348cb53" valueTypeId="f8faa819-34c3-4d2b-bd4f-4c08309e60a9"/>
+    <recordKeyType typeId="01b742b6-7cf4-424c-bb20-6e3779d295fa" valueTypeId="40b020c4-b2ea-4e25-9fb1-0a28010d1ddd"/>
+    <recordType typeId="1d37db03-694e-4a33-8587-ebd5c4029456" valueTypeId="862c9e6d-ea73-4f80-b4ce-3b99351c608f"/>
+  </producedTypes>
+  <name>РегистрНакопления1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр накопления1</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="371b31e5-1e73-46a7-91af-989b047b91f4">
+    <name>Ресурс1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ресурс1</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="588dfe1d-6f2e-462c-b35a-dab6df9b8051">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <dimensions uuid="1ae391f2-ec80-4918-940e-9f3e76cbb5e3">
+    <name>Измерение1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Измерение1</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Справочник1</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+  <commands uuid="51523b7b-0bed-4b81-98ef-81e31cddc359">
+    <name>Команда1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Команда1</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:AccumulationRegister>
