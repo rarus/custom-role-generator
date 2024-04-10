@@ -115,6 +115,7 @@
   <constants>Constant.гпр_ПарольПользователя</constants>
   <constants>Constant.гпр_РежимВыгрузкиКонфигурации</constants>
   <constants>Constant.гпр_НомерВерсииПользовательскихРолей</constants>
+  <constants>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</constants>
   <commonForms>CommonForm.гпр_Настройки</commonForms>
   <commonForms>CommonForm.гпр_НастройкаВыгрузкиРолиКонфигурации</commonForms>
   <catalogs>Catalog.гпр_Роли</catalogs>
