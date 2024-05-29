@@ -118,6 +118,7 @@
   <constants>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</constants>
   <commonForms>CommonForm.гпр_Настройки</commonForms>
   <commonForms>CommonForm.гпр_НастройкаВыгрузкиРолиКонфигурации</commonForms>
+  <commonForms>CommonForm.гпр_ВводПользователя</commonForms>
   <catalogs>Catalog.гпр_Роли</catalogs>
   <catalogs>Catalog.гпр_ШаблоныОграничений</catalogs>
   <enums>Enum.гпр_ВидыМетаданных</enums>

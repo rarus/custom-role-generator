@@ -85,4 +85,5 @@
   <content>Constant.гпр_НомерВерсииПользовательскихРолей</content>
   <content>DataProcessor.ОПрограмме</content>
   <content>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</content>
+  <content>CommonForm.гпр_ВводПользователя</content>
 </mdclass:Subsystem>
