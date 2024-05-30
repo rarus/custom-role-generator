@@ -18,6 +18,10 @@
       <visible/>
     </visibilityFragments>
     <visibilityFragments>
+      <command>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
       <command>Constant.гпр_НомерВерсииПользовательскихРолей.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>

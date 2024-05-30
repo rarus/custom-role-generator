@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="63eb6c82-e4d1-4a74-9f49-9dd87baa6f63">
+  <producedTypes>
+    <managerType typeId="48648aac-df0b-4822-bfdf-6cee8685d3f1" valueTypeId="c1494a32-0cec-42cf-82a4-03b9c980495f"/>
+    <valueManagerType typeId="8fd3634a-17a3-4b37-b70f-6384e54082f7" valueTypeId="1ab2eca8-e2e1-4f9e-910c-8e674c044198"/>
+    <valueKeyType typeId="c804309d-7cbc-43dc-826c-5d5b6b377022" valueTypeId="126d6bb4-9826-4894-aa4c-1f53007414dc"/>
+  </producedTypes>
+  <name>гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</name>
+  <synonym>
+    <key>ru</key>
+    <value>Формировать расширение ролей через пустую базу</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

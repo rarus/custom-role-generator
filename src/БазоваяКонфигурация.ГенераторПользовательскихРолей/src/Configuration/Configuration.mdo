@@ -23,7 +23,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;1С-Рарус&quot;</vendor>
-  <version>1.0.1.4</version>
+  <version>1.0.1.5</version>
   <detailedInformation>
     <key>ru</key>
     <value>Герерация ролей пользователей без модификации программного продукта</value>
@@ -115,8 +115,10 @@
   <constants>Constant.гпр_ПарольПользователя</constants>
   <constants>Constant.гпр_РежимВыгрузкиКонфигурации</constants>
   <constants>Constant.гпр_НомерВерсииПользовательскихРолей</constants>
+  <constants>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</constants>
   <commonForms>CommonForm.гпр_Настройки</commonForms>
   <commonForms>CommonForm.гпр_НастройкаВыгрузкиРолиКонфигурации</commonForms>
+  <commonForms>CommonForm.гпр_ВводПользователя</commonForms>
   <catalogs>Catalog.гпр_Роли</catalogs>
   <catalogs>Catalog.гпр_ШаблоныОграничений</catalogs>
   <enums>Enum.гпр_ВидыМетаданных</enums>
