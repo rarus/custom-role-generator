@@ -23,7 +23,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;1С-Рарус&quot;</vendor>
-  <version>1.0.1.5</version>
+  <version>1.0.1.6</version>
   <detailedInformation>
     <key>ru</key>
     <value>Герерация ролей пользователей без модификации программного продукта</value>
