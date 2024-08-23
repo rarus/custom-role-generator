@@ -53,7 +53,6 @@
           <wrap>true</wrap>
           <chooseType>true</chooseType>
           <typeDomainEnabled>true</typeDomainEnabled>
-          <textEdit>true</textEdit>
         </extInfo>
       </items>
       <items xsi:type="form:FormField">

@@ -11,6 +11,11 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ОПрограмме.Form.Форма</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <forms uuid="3137ede2-a8c7-4423-8c9c-167a6f6cb39f">
     <name>Форма</name>
     <synonym>
