@@ -668,6 +668,10 @@
     <name>УжеВыбранныеОбъекты</name>
     <valueType/>
   </parameters>
+  <parameters>
+    <name>ДанныеТекущегоОбъекта</name>
+    <valueType/>
+  </parameters>
   <commandInterface>
     <navigationPanel/>
     <commandBar/>
