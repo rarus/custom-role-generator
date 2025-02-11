@@ -23,14 +23,14 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>ООО &quot;1С-Рарус&quot;</vendor>
-  <version>1.0.1.8</version>
+  <version>1.0.1.9</version>
   <detailedInformation>
     <key>ru</key>
     <value>Герерация ролей пользователей без модификации программного продукта</value>
   </detailedInformation>
   <copyright>
     <key>ru</key>
-    <value>Copyright (С) ООО &quot;1С-Рарус&quot;, 2018-2023. Все права защищены</value>
+    <value>Copyright (С) ООО &quot;1С-Рарус&quot;, 2018-2025. Все права защищены</value>
   </copyright>
   <vendorInformationAddress>
     <key>ru</key>
