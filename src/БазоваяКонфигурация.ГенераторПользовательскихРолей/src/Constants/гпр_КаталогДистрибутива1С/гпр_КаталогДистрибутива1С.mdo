@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d19b1c8e-1afe-4350-8a99-ef04a49519e9">
+  <producedTypes>
+    <managerType typeId="c58c550e-6560-4c5b-bce0-ad561160fca2" valueTypeId="3c6907ad-cc36-40f5-8ad6-d32fb9d23e5c"/>
+    <valueManagerType typeId="744c0b6f-6915-4da8-9aeb-7facee0c5745" valueTypeId="3b5a3545-a979-4993-bcdc-fbd44df04ecd"/>
+    <valueKeyType typeId="3b6f1cd7-b8b1-463b-957d-aa8015942a2d" valueTypeId="3e2ae0a7-5573-4250-82b1-c3e6964781db"/>
+  </producedTypes>
+  <name>гпр_КаталогДистрибутива1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Каталог дистрибутива 1С</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers/>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
