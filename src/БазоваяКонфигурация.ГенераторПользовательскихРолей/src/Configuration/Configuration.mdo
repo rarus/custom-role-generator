@@ -26,7 +26,7 @@
   <version>1.0.1.9</version>
   <detailedInformation>
     <key>ru</key>
-    <value>Герерация ролей пользователей без модификации программного продукта</value>
+    <value>Генерация ролей пользователей без модификации программного продукта</value>
   </detailedInformation>
   <copyright>
     <key>ru</key>
@@ -116,6 +116,7 @@
   <constants>Constant.гпр_РежимВыгрузкиКонфигурации</constants>
   <constants>Constant.гпр_НомерВерсииПользовательскихРолей</constants>
   <constants>Constant.гпр_ФормироватьРасширениеРолейЧерезПустуюБазу</constants>
+  <constants>Constant.гпр_КаталогДистрибутива1С</constants>
   <commonForms>CommonForm.гпр_Настройки</commonForms>
   <commonForms>CommonForm.гпр_НастройкаВыгрузкиРолиКонфигурации</commonForms>
   <commonForms>CommonForm.гпр_ВводПользователя</commonForms>
